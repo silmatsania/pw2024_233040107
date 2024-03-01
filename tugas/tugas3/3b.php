@@ -1,6 +1,6 @@
 <?php
 
-function UrutanAngka($no) {
+function urutan_angka($no) {
     $monno =1;
     for ($i = 1; $i <= $no; $i++) {
         for($j = 1; $j <=$i; $j++) {
@@ -9,6 +9,7 @@ function UrutanAngka($no) {
         echo("<br>");
     }
 }
-UrutanAngka(5);
+
+echo urutan_angka(5);
 
 ?>
