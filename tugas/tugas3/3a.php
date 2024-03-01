@@ -18,5 +18,5 @@ function Hitung_Keliling_Lingkaran($a, $b) {
     return  $kelilinglingkaran ;
 }
 echo "Jari-jari = ". $a * 2 ." cm.<br>";
-echo "Keliling lingkaran = ".$keliling = Hitung_keliling_Lingkaran($a,$b* 2)." cm <sup> </sup> <br> <hr>";
+echo "Keliling lingkaran = ".$keliling = Hitung_Keliling_Lingkaran($a,$b* 2)." cm <sup> </sup> <br> <hr>";
 
