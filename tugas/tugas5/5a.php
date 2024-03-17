@@ -3,7 +3,7 @@ $mahasiswa = [
 [
     "Nama" => "Siene Tan", 
     "NRP" => "233040107", 
-    "Email" => "silmatsania@unpas.sc.id",
+    "Email" => "sienetan@unpas.sc.id",
     "Jurusan" => "Kedokteran",
     "Gambar" => "siane.jpg"
 ],
