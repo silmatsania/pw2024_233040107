@@ -83,7 +83,7 @@ $mahasiswa = [
         img {
             width : 100px;
             height: 100px;
-            border: 2px grey solid;
+            border: 2px solid grey;
         }
     </style>
  </head>
